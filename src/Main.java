@@ -197,6 +197,10 @@ ketqua = ketqua % 3; //5%3//
         results1 = 10;
         results1 *= 1.5;
         System.out.println("results = " + results1);
+
+        results1 = 10;
+        results1 /= 1.5;
+        System.out.println("results = " + results1);
     }
     }
 
